@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Shah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitshah009&label=Profile%20views&color=0e75b6&style=flat" alt="ankitshah009" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashah0052" target="blank"><img src="https://img.shields.io/twitter/follow/ashah0052?logo=twitter&style=for-the-badge" alt="ashah0052" /></a> </p>
+<p align="left"> <a href="https://x.com/ankits0052" target="blank"><img src="https://img.shields.io/twitter/follow/ashah0052?logo=twitter&style=for-the-badge" alt="ankits0052" /></a> </p>
 
 <p align="left"> My website is linked <a href="https://ankitshah009.github.io/"> "https://ankitshah009.github.io/"  </a></p>
 
