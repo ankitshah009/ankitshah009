@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ankitshah009&label=Profile%20views&color=0e75b6&style=flat" alt="ankitshah009" />
 </p>
 
-[Aubric](https://aubric.ai/) · [Personal site](https://ankitshah009.github.io/) · [Substack](https://ankitshah009.substack.com/)
+[Aubric](https://aubric.ai/) · [Personal site](https://ankitshah009.github.io/) · [LinkedIn](https://www.linkedin.com/in/ankitshah-ai/) · [Substack](https://ankitshah009.substack.com/)
 
 ---
 
