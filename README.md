@@ -18,7 +18,9 @@
 
 ## 👨‍💼 About Me
 
-I’m a **Full Stack LLM Development Associate Director at Accenture (Center for Advanced AI)** and a **Ph.D. graduate from the Language Technologies Institute (LTI) at Carnegie Mellon University**.
+I’m the **co-founder and CEO of [Aubric](https://aubric.ai/)**. We build tools that help teams check AI-assisted ads for unsupported claims, platform policy risks, and synthetic media before launch.
+
+I earned my **Ph.D. from the Language Technologies Institute (LTI) at Carnegie Mellon University**.
 
 My work focuses on **designing, building, and scaling production-grade AI systems**, spanning:
 - Large Language Models (LLMs)
