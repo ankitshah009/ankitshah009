@@ -20,14 +20,7 @@
 
 I’m the **co-founder and CEO of [Aubric](https://aubric.ai/)**. We build tools that help teams check AI-assisted ads for unsupported claims, platform policy risks, and synthetic media before launch.
 
-I earned my **Ph.D. from the Language Technologies Institute (LTI) at Carnegie Mellon University**.
-
-My work focuses on **designing, building, and scaling production-grade AI systems**, spanning:
-- Large Language Models (LLMs)
-- Multimodal and audio-centric learning systems
-- End-to-end AI platforms from research to deployment
-
-I operate at the intersection of **research rigor, real-world constraints, and system reliability**, leading teams that translate cutting-edge ideas into deployed AI solutions.
+Previously, I was a **Full Stack LLM Development Associate Director at Accenture’s Center for Advanced AI**. I earned my **Ph.D. from the Language Technologies Institute (LTI) at Carnegie Mellon University**, where my research focused on computational audition and learning from weakly labeled data.
 
 ---
 
