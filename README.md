@@ -4,15 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ankitshah009&label=Profile%20views&color=0e75b6&style=flat" alt="ankitshah009" />
 </p>
 
-<p align="left">
-  <a href="https://x.com/ankits0052" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ankits0052?style=for-the-badge&logo=X" alt="ankits0052" />
-  </a>
-</p>
-
-<p align="left">
-  🌐 Website: <a href="https://ankitshah009.github.io/">https://ankitshah009.github.io/</a>
-</p>
+[Aubric](https://aubric.ai/) · [Personal site](https://ankitshah009.github.io/) · [Substack](https://ankitshah009.substack.com/)
 
 ---
 
@@ -65,11 +57,9 @@ I’m open to:
 - Conversations with senior engineers and researchers
 - Select industry and platform-level partnerships
 
-📫 Best ways to reach me:
-- Website: https://ankitshah009.github.io  
-- Google Scholar: https://scholar.google.com/citations?user=TqG1H4cAAAAJ&hl=en  
-- ORCID: https://orcid.org/0000-0002-8838-5421
-- <p align="left"> <a href="https://x.com/ankits0052" target="blank"><img src="https://img.shields.io/twitter/follow/ankits0052?style=for-the-badge&logo=X" alt="ankits0052" /></a> </p>
+**Research** · [Google Scholar](https://scholar.google.com/citations?user=TqG1H4cAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8838-5421)
+
+**Elsewhere** · [X (@ankits0052)](https://x.com/ankits0052) · [Threads](https://www.threads.com/@smiling.ank.1) · [LeetCode](https://leetcode.com/ankisha5000/)
 
 
 <h3 align="left">Languages and Tools:</h3>
