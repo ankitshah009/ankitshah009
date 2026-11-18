@@ -59,7 +59,7 @@ I’m open to:
 
 **Research** · [Google Scholar](https://scholar.google.com/citations?user=TqG1H4cAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8838-5421)
 
-**Elsewhere** · [X (@ankits0052)](https://x.com/ankits0052) · [Threads](https://www.threads.com/@smiling.ank.1) · [LeetCode](https://leetcode.com/ankisha5000/)
+**Elsewhere** · [X (@ankitshah_ai)](https://x.com/ankitshah_ai) · [Threads](https://www.threads.com/@smiling.ank.1) · [LeetCode](https://leetcode.com/ankisha5000/)
 
 
 <h3 align="left">Languages and Tools:</h3>
